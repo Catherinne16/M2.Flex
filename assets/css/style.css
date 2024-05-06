@@ -6,17 +6,15 @@ body {
 
 .container {
     display: flex;
-    height: 100vh;
     justify-content: center;
     align-items: center;
 
 }
 
 .sidebar {
-    flex: 0 0 22%;
     background-color: #ebbfde;
     color: #000000;
-    padding: 7px;
+    padding: 18px;
     display: flex;
     flex-direction: column;
 }
